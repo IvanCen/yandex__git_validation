@@ -1,1 +1,2 @@
-# yandex_git
+Yandex praktikum validation RegExp project 
+------------
