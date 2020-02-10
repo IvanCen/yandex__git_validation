@@ -1,9 +1,13 @@
-# Yandex.Praktikum: validation RegExp project 
+# Yandex.Praktikum: validation(RegExp) project 
 
 Актуальная версия проекта v0.0.1
 
 ## О проекте
 Форма регистрации клиента, с проверкой валидации через регулярные выражения.
 
+## Как открыть?
+1. Скопируйте проект себе на локальную машину.
+2. Откройте в браузере index.html
+
 ## Стек технологий
-HTML CSS JS RegExp
+HTML CSS RegExp
