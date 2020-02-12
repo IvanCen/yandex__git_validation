@@ -6,7 +6,7 @@
 Форма регистрации клиента, с проверкой валидации через регулярные выражения.
 
 ## Как открыть?
-Пройти по ссылке: https://ivancen.github.io/yandex__git_validation/
+Пройти по ссылке: https://ivancen.github.io/yandex__project_validation-regexp/
 
 ## Стек технологий
 HTML CSS RegExp
