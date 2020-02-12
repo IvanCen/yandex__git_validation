@@ -1,4 +1,4 @@
-# Yandex.Praktikum: validation(RegExp) project 
+# Yandex.Praktikum project: validation (regExp) 
 
 Актуальная версия проекта v0.0.1
 
