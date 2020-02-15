@@ -8,5 +8,8 @@
 ## Как открыть?
 Пройти по ссылке: https://ivancen.github.io/yandex__project_validation-regexp/
 
+## Демо 
+![Main page](https://github.com/IvanCen/yandex__project_validation-regexp/blob/master/main_pic.png "Научится учиться")
+
 ## Стек технологий
 HTML CSS RegExp
